@@ -1,0 +1,18 @@
+{
+  "name": "electron-simple-alarm",
+  "version": "1.0.0",
+  "description": "A simple alarm using Electron",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^11.0.3"
+  },
+  "dependencies": {
+    "node-notifier": "^8.0.0",
+    "uuid": "^8.3.1"
+  }
+}
